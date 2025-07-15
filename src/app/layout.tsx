@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-    title: 'Art Tool'
+    title: 'Next.js Starter'
 }
 
 export default function RootLayout({
