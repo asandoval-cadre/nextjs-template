@@ -14,5 +14,6 @@
     },
     "files.insertFinalNewline": true,
     "trailing-spaces.trimOnSave": true,
+    "tailwindCSS.experimental.configFile": "src/app/globals.css",
     "workbench.iconTheme": "material-icon-theme"
 }
