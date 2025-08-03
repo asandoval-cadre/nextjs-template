@@ -1,8 +1,9 @@
 {
-    "plugins": ["prettier-plugin-tailwindcss", "prettier-plugin-organize-imports"],
+    "plugins": ["prettier-plugin-tailwindcss"],
     "printWidth": 160,
     "semi": false,
     "singleQuote": true,
     "tabWidth": 4,
-    "trailingComma": "none"
+    "trailingComma": "none",
+    "tailwindStylesheet": "./src/app/globals.css"
 }
