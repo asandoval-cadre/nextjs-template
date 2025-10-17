@@ -1,7 +1,11 @@
 ## Getting Started
 
-First, run the development server:
+First, install the dependencies:
+```bash
+bun install
+```
 
+Then run the development server:
 ```bash
 bun dev
 ```
