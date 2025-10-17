@@ -2,7 +2,6 @@
     "recommendations": [
         "aaron-bond.better-comments",
         "bradlc.vscode-tailwindcss",
-        "ChakrounAnas.turbo-console-log",
         "dbaeumer.vscode-eslint",
         "eamodio.gitlens",
         "esbenp.prettier-vscode",
